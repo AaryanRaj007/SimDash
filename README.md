@@ -1,7 +1,10 @@
 # SimDash
 
-> ⚠️ **Early development — buggy and unfinished. Not ready for daily use.**
-
+> [!WARNING]
+> ⚠️ **Early development — buggy and unfinished. Not ready for daily use.**|
+> SimDash is unfinished, unstable, and missing core functionality.
+> Do not use this as your primary data tracker. Expect crashes, 
+> wrong numbers, and incomplete screens.
 A clean, minimal Android widget that shows your prepaid SIM's data usage, 
 balance, and plan validity at a glance — no more dialing *121#, no more 
 opening carrier apps full of ads.
