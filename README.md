@@ -68,5 +68,5 @@ Watch the repo and check back soon.
 ---
 
 <p align="center">
-  Made by Aaryan · India
+  Thanks for Reading ..........
 </p>
