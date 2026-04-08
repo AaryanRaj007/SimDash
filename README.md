@@ -1,7 +1,7 @@
 # SimDash
 
 <p align="right">
-  <img src="SimDash.png" width="260" alt="SimDash Banner">
+  <img src="SimDash (1).png" width="260" alt="SimDash Banner">
 </p>
 
 > [!WARNING]
