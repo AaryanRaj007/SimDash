@@ -1,8 +1,8 @@
 # SimDash
 
-<p align="right">
-  <img src="SimDash (1).png" width="260" alt="SimDash Banner">
-</p>
+<table>
+<tr>
+<td width="70%">
 
 > [!WARNING]
 > ⚠️ **Early development — buggy and unfinished. Not ready for daily use.**
@@ -10,13 +10,14 @@
 > SimDash is unstable and missing core functionality.  
 > Do not rely on it as your primary data tracker — expect bugs, wrong values, and incomplete screens.
 
-A clean, minimal Android widget that shows your prepaid SIM's data usage,  
-balance, and plan validity at a glance — no more dialing *121#,  
-no more opening carrier apps full of ads.
+</td>
+<td align="right" width="30%">
 
-Built for Indian users on **Jio · Airtel · Vi · BSNL**
+<img src="SimDash (1).png" width="220" alt="SimDash Banner">
 
----
+</td>
+</tr>
+</table>
 
 ## What it will do (when finished)
 
