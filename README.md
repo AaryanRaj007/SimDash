@@ -5,7 +5,7 @@
 <td width="70%">
 
 > [!WARNING]
-> ⚠️ **Early development — buggy and unfinished. Not ready for daily use.**
+> ⚠️ **Early development bggy and unfinished. Not ready for daily use.**
 >
 > SimDash is unstable and missing core functionality.  
 > Do not rely on it as your primary data tracker — expect bugs, wrong values, and incomplete screens.
@@ -26,7 +26,7 @@
 - Smart alerts at 40%, 60%, and 80% usage  
 - Plan validity countdown (with expiry reminders)  
 - Daily morning summary notification  
-- Works offline — all data stays on your device  
+- Works offline  all data stays on your device  
 - Follows system dark/light mode  
 
 ---
