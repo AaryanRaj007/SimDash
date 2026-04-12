@@ -29,7 +29,6 @@
 - Works offline  all data stays on your device  
 - Follows system dark/light mode  
 
----
 
 ## Current state
 
