@@ -63,7 +63,6 @@ Kotlin · Jetpack Compose · Material 3 · Room · Hilt · DataStore
 Too early for contributions — core architecture is still evolving.  
 Watch the repo and check back soon.
 
----
 
 <p align="center">
   Thanks for Reading ..........
