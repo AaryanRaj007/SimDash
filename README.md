@@ -56,7 +56,7 @@ This project is in **early development**. Many parts are incomplete or unstable:
 
 Kotlin · Jetpack Compose · Material 3 · Room · Hilt · DataStore  
 
----
+
 
 ## Contributing
 
