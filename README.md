@@ -43,7 +43,7 @@ This project is in **early development**. Many parts are incomplete or unstable:
 
 **Do not use this as your main data tracker yet.**
 
----
+
 
 ## Planned support
 
