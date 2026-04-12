@@ -52,7 +52,8 @@ This project is in **early development**. Many parts are incomplete or unstable:
 
 - Android 8.0+ (API 26+)  
 - Jio · Airtel · Vi · BSNL  
-- Dual SIM (auto-detect active data SIM)  
+- Dual SIM (auto-detect active data SIM)
+  
 
 
 ## Tech stack
