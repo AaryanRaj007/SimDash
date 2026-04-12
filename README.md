@@ -1,11 +1,11 @@
 SimDash
 <table> <tr> <td width="70%">
 
-[!WARNING]
-⚠️ Early development, buggy and unfinished. Not ready for daily use.
-
-SimDash is still unstable and missing core functionality.
-Do not rely on it as your primary data tracker — expect bugs, incorrect values, and incomplete screens.
+ [!WARNING] 
+> ⚠️ **Early development bggy and unfinished. Not ready for daily use.** 
+> SimDash is unstable and missing core functionality. > Do not rely on it as your primary data tracker — expect bugs, wrong values, and incomplete screens.
+> SimDash is still unstable and missing core functionality.
+> Do not rely on it as your primary data tracker — expect bugs, incorrect values, and incomplete screens.
 
 </td> <td align="right" width="30%"> <img src="SimDash (1).png" width="220" alt="SimDash Banner"> </td> </tr> </table>
 
