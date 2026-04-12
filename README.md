@@ -51,7 +51,6 @@ This project is in **early development**. Many parts are incomplete or unstable:
 - Jio · Airtel · Vi · BSNL  
 - Dual SIM (auto-detect active data SIM)  
 
----
 
 ## Tech stack
 
